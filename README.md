@@ -1,0 +1,1 @@
+Developed a comprehensive HR data analysis project leveraging Power BI to create an interactive and insightful dashboard. The project aimed to provide actionable insights into employee attendance, work-from-home (WFH) trends, and sick leave (SL) patterns.
